@@ -1,4 +1,4 @@
-# 💜 HeartSync 🕊️
+# 💜 HeartHeaven 🕊️
 > **Translate Emotions. Heal Minds. Find Clarity.**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -19,9 +19,9 @@ In the modern era, while we are more "connected" than ever through technology, t
 
 ---
 
-## 💡 The HeartSync Solution
+## 💡 The HeartHeaven Solution
 
-HeartSync is an AI-powered emotional intelligence platform that acts as a **24/7 digital mediator**. It doesn't just "chat"; it provides a structured toolkit to de-escalate conflict and build empathy using scientifically-backed communication methods.
+HeartHeaven is an AI-powered emotional intelligence platform that acts as a **24/7 digital mediator**. It doesn't just "chat"; it provides a structured toolkit to de-escalate conflict and build empathy using scientifically-backed communication methods.
 
 ### How it solves the crisis:
 - **Instant De-escalation**: By using the **Emotional Translator**, users can convert raw anger into "I-statements" that focus on vulnerability rather than blame.
@@ -34,9 +34,9 @@ HeartSync is an AI-powered emotional intelligence platform that acts as a **24/7
 ## 🚀 Key Features
 
 ### 🔄 Emotional Translator
-The heart of HeartSync. It uses Natural Language Processing (NLP) to analyze the sentiment of a sentence and suggests a "Compassionate Alternative."
+The heart of HeartHeaven. It uses Natural Language Processing (NLP) to analyze the sentiment of a sentence and suggests a "Compassionate Alternative."
 *   *Input:* "You never listen to me and you're always on your phone!"
-*   *HeartSync Translation:* "I feel unheard and a bit lonely when we spend time together but don't talk. Can we set some phone-free time?"
+*   *HeartHeaven Translation:* "I feel unheard and a bit lonely when we spend time together but don't talk. Can we set some phone-free time?"
 
 ### 🚩 Flag Detector (Red & Green)
 A comprehensive diagnostic tool.
